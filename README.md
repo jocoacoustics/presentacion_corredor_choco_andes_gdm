@@ -1,2 +1,5 @@
-# presentacion_corredor_choco_andes_gdm
+# Presentacion Análisis GDM Corredor Chocó-Andes
+
+https://jocoacoustics.github.io/presentacion_corredor_choco_andes_gdm/
+
 Presentación de los analisis GDM del corredor Chocó-ANdes
